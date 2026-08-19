@@ -6,5 +6,8 @@ A comprehensive collection of SQL scripts for data exploration, analytics, and r
 
 # Project RoadMap
 
-![Uploading Project Roadmap.png…]()
+<img width="2140" height="838" alt="Project Roadmap" src="https://github.com/user-attachments/assets/e4f03baf-2bc3-4aa5-8876-2c6aca958d7d" />
+
+
+
 
